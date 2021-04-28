@@ -1,3 +1,5 @@
+# react-hulu-clone
+
 ## Overview
 
 This is a [Next.js](https://nextjs.org/) project using [React.js](https://reactjs.org/) for building user interfaces and [Tailwindcss](https://tailwindcss.com/) for styling it.
