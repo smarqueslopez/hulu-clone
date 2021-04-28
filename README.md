@@ -17,3 +17,7 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Greetings
+
+See the tutorial from Sonny Sangha (Clever Programmer) at this [link](https://youtu.be/MqDlsjc8GLo).
