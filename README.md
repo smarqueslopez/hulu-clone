@@ -14,7 +14,7 @@ This project is deployed at https://react-hulu-clone-nine.vercel.app/
 
 <img src="./docs/AnimatedMenu.gif?raw=true" width="100%" alt="AnimatedMenu.gif"></img>
 
-### Animated card
+### Animated cards
 
 <img src="./docs/AnimatedCard.gif?raw=true" width="100%" alt="AnimatedCard.gif"></img>
 
