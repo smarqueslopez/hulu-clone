@@ -6,15 +6,15 @@ This project is deployed at https://react-hulu-clone-nine.vercel.app/
 
 <img src="./docs/Screenshot1.png?raw=true" width="100%" alt="Screenshot1.png"></img>
 
-Navbar animated buttons
+### Navbar animated buttons
 
 <img src="./docs/AnimatedNav.gif?raw=true" width="100%" alt="AnimatedNav.gif"></img>
 
-Filter animated buttons
+### Filter animated buttons
 
 <img src="./docs/AnimatedMenu.gif?raw=true" width="100%" alt="AnimatedMenu.gif"></img>
 
-Animated card
+### Animated card
 
 <img src="./docs/AnimatedCard.gif?raw=true" width="100%" alt="AnimatedCard.gif"></img>
 
